@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/text"
+        android:layout_width="138dp"
+        android:layout_height="43dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="56dp"
+        android:hint="Enter first team" />
+
+    <EditText
+        android:id="@+id/text2"
+        android:layout_width="137dp"
+        android:layout_height="49dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="130dp"
+        android:hint="Enter second team"
+        tools:ignore="RtlCompat" />
+
+    <EditText
+        android:id="@+id/text3"
+        android:layout_width="137dp"
+        android:layout_height="43dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="195dp"
+        android:hint="Enter Date"
+        tools:ignore="RtlCompat" />
+
+    <EditText
+        android:id="@+id/text4"
+        android:layout_width="137dp"
+        android:layout_height="39dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="220dp"
+        android:hint="Enter Time" />
+
+    <EditText
+        android:id="@+id/text5"
+        android:layout_width="138dp"
+        android:layout_height="46dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="165dp"
+        android:hint="Enter Venue"
+        tools:ignore="RtlCompat" />
+
+    <EditText
+        android:id="@+id/text0"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="81dp"
+        android:hint="ID" />
+
+</RelativeLayout>

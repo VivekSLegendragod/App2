@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FIFAxture</string>
+    <string name="action_settings">Settings</string>
+    <string name="CREATE">CREATE</string>
+    <string name="EDIT">EDIT</string>
+    <string name="DELETE">DELETE</string>
+    <string name="LIST">TextView</string>
+    <string name="CREATE">CREATE</string>
+    <string name="EDIT">EDIT</string>
+    <string name="DELETE">DELETE</string>
+    <string name="CREATE">CREATE</string>
+    <string name="TextView">TextView</string>
+</resources>
